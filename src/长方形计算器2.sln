@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "长方形计算器2", "长方形计算器2\长方形计算器2.csproj", "{897410C0-E0BB-484C-B9A2-A26B6D0DFEC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数据转换", "数据转换\数据转换.csproj", "{FA160E75-D1FB-4079-A903-BCDAC93A5070}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{897410C0-E0BB-484C-B9A2-A26B6D0DFEC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{897410C0-E0BB-484C-B9A2-A26B6D0DFEC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{897410C0-E0BB-484C-B9A2-A26B6D0DFEC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{897410C0-E0BB-484C-B9A2-A26B6D0DFEC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA160E75-D1FB-4079-A903-BCDAC93A5070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA160E75-D1FB-4079-A903-BCDAC93A5070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA160E75-D1FB-4079-A903-BCDAC93A5070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA160E75-D1FB-4079-A903-BCDAC93A5070}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5BDE4E9-431F-456A-B8EA-D53340BADACC}
+	EndGlobalSection
+EndGlobal
